@@ -5,7 +5,7 @@ I'm a student from Russia. I like creating simple programs or games.
 A little bit about me:
 
 - I'm currently working on my unreal engine 4 project 
-- I'm currently learning C++ 
+- I'm currently learning HTML, CSS, JS
 - You can reach me in discord: henku#4775
 - Fun fact: I'm lazy 
 <!--
